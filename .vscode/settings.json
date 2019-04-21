@@ -1,0 +1,17 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.exclude": {
+      "node_modules": true,
+      "src/repositories/**/*.js.map": true,
+      "src/repositories/**/*.js": true,
+      "dist": true,
+      "src/enums/**/*.js.map": true,
+      "src/enums/**/*.js": true,
+      "config/**/*.js.map": true,
+      "config/**/*.js": true,
+      "src/utilities/**/*.js.map": true,
+      "src/utilities/**/*.js": true
+    },
+    "git.ignoreLimitWarning": true
+  }
+  
